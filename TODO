@@ -1,0 +1,28 @@
+TODO
+
+Source list:
+
+1. RSS:
+Morning Briefing: https://kill-the-newsletter.com/feeds/d450th4wodc579ro6b4a.xml
+Handelsblatt Shift: https://kill-the-newsletter.com/feeds/y9d0t88vsqiqvkwcylm9.xml
+Handelsblatt Finance Briefing: https://kill-the-newsletter.com/feeds/vvtk4nzg35aapwcogwtd.xml
+Tagesschau Headlines: https://www.tagesschau.de/index~rss2.xml
+Tagesschau DE News: https://www.tagesschau.de/inland/innenpolitik/index~rss2.xml
+Tagesschau EUR News: https://www.tagesschau.de/ausland/europa/index~rss2.xml
+Tagesschau Ausland: https://www.tagesschau.de/ausland/index~rss2.xml
+Tagesschau Wissen: https://www.tagesschau.de/wissen/index~rss2.xml
+Reddit WebDev: https://www.reddit.com/r/webdev/top/.rss?sort=top&t=day
+Reddit 3DPrint: https://www.reddit.com/r/3Dprinting/top/.rss?sort=top&t=day
+Reddit HA: https://www.reddit.com/r/homeassistant/top/.rss?sort=top&t=day
+Reddit Logo Design: https://www.reddit.com/r/logodesign/top/.rss?sort=top&t=day
+Reddit Hacking: https://www.reddit.com/r/hacking/top/.rss?sort=top&t=day
+Reddit Flipper0: https://www.reddit.com/r/flipperzero/top/.rss?sort=top&t=day
+Reddit Pihole: https://www.reddit.com/r/pihole/top/.rss?sort=top&t=day
+Reddit Marketing: https://www.reddit.com/r/marketing/top/.rss?sort=top&t=day
+Reddit Design: https://www.reddit.com/r/Design/top/.rss?sort=top&t=day
+Reddit Graphic Design: https://www.reddit.com/r/graphic_design/top/.rss?sort=top&t=day
+GitHub Trending JS: https://mshibanami.github.io/GitHubTrendingRSS/daily/javascript.xml
+GitHub Trending Python: https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml
+Coinbase: https://api.international.coinbase.com/api/v1/portfolios/{portfolio}/balances/{asset}
+Stocks: Trading212 API
+HA: https://www.home-assistant.io/atom.xml
